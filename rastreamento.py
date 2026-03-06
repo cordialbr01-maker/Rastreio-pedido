@@ -1,4 +1,3 @@
-
 # rastreamento.py
 
 import os
